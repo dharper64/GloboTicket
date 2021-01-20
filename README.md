@@ -12,6 +12,8 @@ Setting up an application architecture isn’t a straightforward task. Decisions
 
 # This project uses MediatR
 
+https://github.com/jbogard/MediatR
+
 MediatR is a simple mediator implementation in .NET
 
 In-process messaging with no dependencies.
